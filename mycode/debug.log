@@ -1,0 +1,15 @@
+10-Mar-24 11:14:49 - Starting Application
+10-Mar-24 11:14:49 - Successfully connected to Phoenix DB
+10-Mar-24 11:14:49 - Successfully created Merchandise Table
+10-Mar-24 11:14:49 - Successfully created Purchase Table
+10-Mar-24 11:14:49 - Switching to home page
+10-Mar-24 11:14:53 - Switching to Merchandise Page
+10-Mar-24 11:15:15 - Starting Application
+10-Mar-24 11:15:15 - Successfully connected to Phoenix DB
+10-Mar-24 11:15:15 - Successfully created Merchandise Table
+10-Mar-24 11:15:15 - Successfully created Purchase Table
+10-Mar-24 11:15:15 - Switching to home page
+10-Mar-24 11:15:18 - Switching to Merchandise Page
+10-Mar-24 11:15:48 - Added record to Merchandise table
+10-Mar-24 11:15:54 - Deleted record from Merchandise table
+10-Mar-24 11:15:55 - Switching to Home Page
